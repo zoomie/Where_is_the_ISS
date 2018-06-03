@@ -2,7 +2,7 @@
 Mapping the current international space station onto a Web Mercator projection.
 
 Live demo: https://nameless-journey-86776.herokuapp.com/  
-(oh, and you have to remove you https: green lock at the start of the url)
+(oh, and you have to disable you https: green lock at the start of the url)
 
 Go the template/index.html and the javascript code is hidden in there.
 
