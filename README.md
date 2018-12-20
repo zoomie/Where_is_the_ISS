@@ -12,4 +12,4 @@ then reload the page again in two minutes you will see.
 
 Example:
 
-![alt text](https://github.com/zoomie/Travel_the_world/blob/master/pic.png)
+![alt text](https://github.com/zoomie/Where_is_the_ISS-/blob/master/pic.png)
