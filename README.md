@@ -1,4 +1,4 @@
-# Where_is_the_ISS-
+# Where_is_the_ISS
 Mapping the current international space station onto a Web Mercator projection.
 
 Live demo: https://nameless-journey-86776.herokuapp.com/  
